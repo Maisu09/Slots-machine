@@ -1,0 +1,21 @@
+TODO:
+
+1 -> Creating a user with a budget.
+
+2 -> Creating the house.
+
+2 -> Creating the score and values for each card.
+
+3 -> Creating the logic of the game : - The bet amount
+                                      - Points earned or lost
+                                      - Changing the deposit value
+                                      - Changing the house's money
+                                      - Withdraw operation.
+                                      - Changing the deposit value for the Withdraw
+                                      - If closing without soending / withdrawing all the amount. the amount is added to the house
+
+4 -> Updating a database with the money of the house after each player
+
+5 -> Adding a log with each players starting money 
+
+6 -> 
