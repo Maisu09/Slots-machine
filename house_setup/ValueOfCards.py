@@ -1,5 +1,6 @@
 from enum import Enum
 
+
 class ValueOfCards(Enum):
     ONE = 100
     TWO = 200
