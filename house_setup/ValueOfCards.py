@@ -1,6 +1,6 @@
 from enum import Enum
 
-class value_of_cards(Enum):
+class ValueOfCards(Enum):
     ONE = 100
     TWO = 200
     THREE = 300
